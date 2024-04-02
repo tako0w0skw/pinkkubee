@@ -1,0 +1,91 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url(image/1fb97057baad527cca31684716ce8cd2.jpg);
+    font-family: 'Cursive', cursive;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #803259;
+  }
+  
+  header {
+    background-color: #f7f7f7;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  header p {
+    font-size: 20px;
+    color: #777;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .about-me {
+    margin-bottom: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .about-me h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .about-me p {
+    font-size: 18px;
+  }
+  
+  .social-media {
+    text-align: center;
+  }
+  
+  .social-media ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-media ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  .social-media ul li a {
+    color: #333;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .social-media ul li a:hover {
+    color: #000;
+  }
+  
+  .social-media ul li i {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  footer {
+    background-color: #f7f7f7;
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 18px;
+    color: #777;
+  }
+  
